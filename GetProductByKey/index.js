@@ -1,4 +1,4 @@
-const { apiRoot } = require("../src/services/commercetoolsClient.js");
+const { apiRoot } = require("../dist/services/commercetoolsClient.js");
  
 module.exports = async function (context, request) {
   try {
