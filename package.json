@@ -1,0 +1,22 @@
+{
+  "name": "ct-azure-function",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "func start",
+    "dev": "npm run build && func start"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0",
+    "@azure/storage-blob": "^12.31.0",
+    "@commercetools/importapi-sdk": "^6.14.0",
+    "@commercetools/platform-sdk": "^6.0.0",
+    "@commercetools/sdk-client-v2": "^2.5.0",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/node-fetch": "^2.6.13",
+    "typescript": "^5.0.0"
+  }
+}

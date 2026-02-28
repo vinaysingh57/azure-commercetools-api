@@ -1,0 +1,84 @@
+{
+    "productType": {
+        "id": "4538047d-72c7-4aa3-b585-ef5ed5e092ae",
+        "typeId": "product-type"
+    },
+    "name": {
+        "en": "new00114"
+    },
+    "slug": {
+        "en": "new00114"
+    },
+    "priceMode": "Embedded",
+    "categories": [
+        {
+            "id": "a0765d5d-7548-4dfe-923a-22dc3d05f7bd",
+            "typeId": "category"
+        }
+    ],
+    "masterVariant": {
+        "id": 1,
+        "key": "VER00114",
+        "sku": "SKU00114",
+        "attributes": [
+            {
+                "name": "designer",
+                "value": {
+                    "key": "7forallmankind",
+                    "label": "7 for all mankind"
+                }
+            },
+            {
+                "name": "madeInItaly",
+                "value": {
+                    "key": "yes",
+                    "label": "yes"
+                }
+            },
+            {
+                "name": "gender",
+                "value": {
+                    "key": "men",
+                    "label": "Herren"
+                }
+            },
+            {
+                "name": "baseId",
+                "value": "00114"
+            },
+            {
+                "name": "inriverID",
+                "value": "INV00114"
+            }
+        ]
+    },
+    "variants": [],
+    "key": "00114",
+    "description": {
+        "en": "New Product"
+    },
+    "taxCategory": {
+        "id": "27790438-c32d-406c-bccf-34ef9311cff2",
+        "typeId": "tax-category",
+        "obj": {
+            "id": "27790438-c32d-406c-bccf-34ef9311cff2",
+            "name": "standard"
+        }
+    },
+    "metaTitle": {
+        "en": "",
+        "de": "",
+        "fr": ""
+    },
+    "metaDescription": {
+        "en": "",
+        "de": "",
+        "fr": ""
+    },
+    "attributes": [
+        {
+            "name": "productkey",
+            "value": "00114"
+        }
+    ]
+}
