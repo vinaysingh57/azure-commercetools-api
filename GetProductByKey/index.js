@@ -33,6 +33,9 @@ module.exports = async function (context, request) {
         raw: product,
       },
     };
+    
+    context.log(`Product Ftech successulyy!!`);
+    context.log(`Product Key : ${product.key}`);
   } catch (error) {
     context.log.error("Error fetching product:", error);
     context.res = {
