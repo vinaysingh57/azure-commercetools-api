@@ -17,9 +17,6 @@ app.http("CreateProduct", {
             }
 
 
-
-
-
             context.log(`Creating product: ${body.name.en}`);
 
             // 2. Execute the Create request

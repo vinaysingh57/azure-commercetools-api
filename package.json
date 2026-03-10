@@ -2,6 +2,7 @@
   "name": "ecom-ct-catalouge",
   "version": "1.0.0",
   "description": "",
+  "main": "dist/functions/*.js",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
